@@ -1,4 +1,4 @@
-# NHL Players & Stats vs the Gear they are using
+# NHL Players & Stats...and the Gear they Swear By
 
 ## Description
 
